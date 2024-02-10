@@ -1,10 +1,10 @@
+from math import *
 from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox as mb
 from fpdf import FPDF
 from os import remove
 import numpy as np
-from numpy import *
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
 import sympy as sp
